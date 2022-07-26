@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sadegh
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Larave - Vue
+- 🌱 I’m currently learning Laravel - Vue
 - 💞️ I’m looking to collaborate on your heart
 
 
